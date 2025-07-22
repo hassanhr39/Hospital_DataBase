@@ -61,10 +61,6 @@ The system includes 17 relational tables. Example entities:
 
 All entities and justifications are provided in the report.
 
-- [📄 Hospital Management System Database Report 1](Hospital%20Management%20System%20Database%20Report%201.docx)
-- [📄 Hospital Management System Database Report 2](Hospital%20Management%20System%20Database%20Report%202.docx)
-
-
 ---
 
 ## 📐 Normalization
@@ -121,10 +117,6 @@ Project for Database Systems Course
 ## 📄 Report
 
 For a detailed explanation of entities, normalization, and relationships, refer to the full report.
-
-- [📄 Hospital Management System Database Report 1](Hospital%20Management%20System%20Database%20Report%201.docx)
-- [📄 Hospital Management System Database Report 2](Hospital%20Management%20System%20Database%20Report%202.docx)
-
 
 ---
 
