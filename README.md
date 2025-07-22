@@ -78,11 +78,11 @@ Total number of tables after normalization: **17**
 
 ### 👣 Crow Foot ERD
 
-![Crow Foot Diagram](./assets/crowfoot-erd.png)
+![Crow Foot Diagram](./assets/crowfoot_erd.jpg)
 
 ### 🧬 Chen Model
 
-![Chen Model Diagram](./assets/chen-model.png)
+![Chen Model Diagram](./assets/chen_erd.jpg)
 
 > ⚠️ If images don't load, make sure they're correctly uploaded in the `assets/` folder and named appropriately.
 
